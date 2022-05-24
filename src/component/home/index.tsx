@@ -1,7 +1,5 @@
 import { NavLink } from 'react-router-dom';
-// import './style.scss';
 import s from './style.scss';
-console.log('s', s);
 
 const Home = () => {
     return (
